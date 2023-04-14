@@ -1,7 +1,9 @@
 
-![image](https://user-images.githubusercontent.com/22904186/232062061-20787783-4386-4581-9c3f-c1e637c18775.png)
 
 # EuroCIM2023
+
+
+
 Reference List for the Poster
 
 [1] Najmanova, Klara, et al. "Risk factors for hospital acquired pressure injury in patients with spinal cord injury during first rehabilitation: prospective cohort study." Spinal Cord 60.1 (2022): 45-52.
