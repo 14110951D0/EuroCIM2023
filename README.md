@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/22904186/232062061-20787783-4386-4581-9c3f-c1e637c18775.png)
+
 # EuroCIM2023
 Reference List for the Poster
 
